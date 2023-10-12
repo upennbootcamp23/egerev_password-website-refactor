@@ -1,5 +1,7 @@
 # Alex Egerev's Password Website Generator (Refactored) Webpage
 
+![image](https://github.com/upennbootcamp23/egerev_password-website-refactor/assets/143010411/29e5e86f-0d93-4ec0-99a5-573dc825c0fd)
+
 ## Description
 
 This website was created in order to create a strong, secure, more reliable password. According to Keeper Security (https://www.keepersecurity.com/blog/2022/09/14/why-is-password-security-important/), "[c]reating a strong and secure password can reduce the risk of cybercriminals guessing your password accessing sensitive data."
@@ -9,9 +11,9 @@ This website was created in order to create a strong, secure, more reliable pass
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-
+- [Deployment](#deployment)
+- 
 ## Installation
-
 No third-party applications were installed during the making of this website.
 
 ## Usage
@@ -34,8 +36,11 @@ While I may have had some help from multiple sources (as listed below), I can as
 
 4. By doing the project, I have found something that was NOT TAUGHT AT THE BOOTCAMP: Not a Number (NaN). Stack Overflow (https://stackoverflow.com/questions/175739/how-can-i-check-if-a-string-is-a-valid-number) taught me about NaN. This is put to use in the script.js file, where I needed to verify if the length of the password is a number or a string. 
 
-5. I had to give criteria to the user, as stated in the Acceptance Criteria. Stack Overflow (https://stackoverflow.com/questions/9334636/how-to-create-a-dialog-with-ok-and-cancel-options) helped me with creating dialog with "Yes" and "No" buttons (in this case, "OK" and "Cancel".)
+5. I had to give criteria to the user, as stated in the Acceptance Criteria. Stack Overflow (https://stackoverflow.com/questions/9334636/how-to-create-a-dialog-with-ok-and-cancel-options) helped me with creating a dialog with "Yes" and "No" buttons (in this case, "OK" and "Cancel".)
 
 ## License
 
 Please refer to the LICENSE in the repo.
+
+## Deployment
+After checking, double-checking, and triple-checking my work, I have submitted my website to Github Pages. The link can be found here: https://upennbootcamp23.github.io/egerev_password-website-refactor/
